@@ -3,20 +3,34 @@ Library Management System - Python Project
 This project implements a simple library management system using Python. It allows users to manage book borrowing and availability.
 
 Features:
+
 Book Management:
+
 Add new books.
+
 View a list of available books.
+
 Search for books by title or ISBN.
+
+
 User Management:
+
 Register new users.
+
 View user information.
+
 Borrowing/Returning Books:
+
 Borrow a book by searching or browsing.
+
 Return a borrowed book.
+
 Track book availability (available/borrowed).
+
+
 Dependencies:
 Python 3.x
-json module (included in Python standard library)
+csv module
 Usage:
 1. Clone the repository or download the project files.
 2. Run the main script:
