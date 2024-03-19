@@ -1,0 +1,88 @@
+2024-03-15 15:13:03,803:INFO:Book added: Title: Atomic Habits, Author: James Clear, ISBN: 12354
+2024-03-15 15:13:05,285:INFO:Displayed all books
+2024-03-15 15:13:18,433:INFO:Searched for 12354 and found Title: Atomic Habits, Author: James Clear, ISBN: 12354, Availability: True
+2024-03-15 15:13:21,442:INFO:Application exited successfully
+2024-03-15 15:17:30,055:INFO:User added: Name: Ram, ID: 6
+2024-03-15 15:17:35,616:INFO:Application exited successfully
+2024-03-15 15:20:30,893:INFO:Book added: Title: Atomic Habits, Author: James Clear, ISBN: 12354
+2024-03-15 15:20:33,724:INFO:Displayed all books
+2024-03-15 15:20:49,486:INFO:Searched for 12354 and found Title: Atomic Habits, Author: James Clear, ISBN: 12354, Availability: True
+2024-03-15 15:20:49,486:INFO:Searched for 12354 and found Title: Atomic Habits, Author: James Clear, ISBN: 12354, Availability: True
+2024-03-15 15:20:54,088:INFO:Application exited successfully
+2024-03-15 15:23:38,586:INFO:User deleted: ID: 6
+2024-03-15 15:23:54,998:INFO:User added: Name: Ram, ID: 6
+2024-03-15 15:24:00,693:INFO:Application exited successfully
+2024-03-15 15:25:15,559:INFO:Application exited successfully
+2024-03-15 16:11:30,568:INFO:Book borrowed: User ID: 6, Book ISBN: 12354
+2024-03-15 16:11:36,892:INFO:Application exited successfully
+2024-03-15 16:11:50,384:INFO:Displayed all books
+2024-03-15 16:30:28,705:INFO:Application exited successfully
+2024-03-15 16:32:21,726:INFO:Application exited successfully
+2024-03-15 16:34:01,896:INFO:Book borrowed: User ID: 6, Book ISBN: 12354
+2024-03-15 16:34:20,569:INFO:Application exited successfully
+2024-03-15 16:36:03,541:INFO:Application exited successfully
+2024-03-15 16:36:57,041:INFO:Application exited successfully
+2024-03-19 12:45:56,136:INFO:Book added: Title: book, Author: author, ISBN: 1
+2024-03-19 12:45:57,918:INFO:Displayed all books
+2024-03-19 12:46:12,846:INFO:Searched for 1 and found Title: book, Author: author, ISBN: 1, Availability: True
+2024-03-19 12:46:21,119:INFO:Application exited successfully
+2024-03-19 12:55:17,065:INFO:User added: Name: ram, ID: 1
+2024-03-19 12:55:24,207:INFO:Application exited successfully
+2024-03-19 12:59:31,819:INFO:Book borrowed: User ID: 1, Book ISBN: 1
+2024-03-19 12:59:43,567:INFO:Displayed all books
+2024-03-19 12:59:50,270:INFO:Application exited successfully
+2024-03-19 13:00:11,411:INFO:Displayed all books
+2024-03-19 13:00:16,156:INFO:Application exited successfully
+2024-03-19 13:00:48,206:INFO:Displayed all books
+2024-03-19 13:00:51,769:INFO:Application exited successfully
+2024-03-19 13:03:31,738:INFO:Book added: Title: book, Author: ram, ISBN: 1
+2024-03-19 13:03:35,397:INFO:Displayed all books
+2024-03-19 13:04:13,423:INFO:Book borrowed: User ID: 1, Book ISBN: 1
+2024-03-19 13:04:19,969:INFO:Displayed all books
+2024-03-19 13:04:34,018:INFO:Application exited successfully
+2024-03-19 13:04:42,997:INFO:Displayed all books
+2024-03-19 13:04:47,114:INFO:Application exited successfully
+2024-03-19 13:07:24,061:INFO:Book added: Title: book, Author: ram, ISBN: 1
+2024-03-19 13:07:28,858:INFO:Searched for 1 and found Title: book, Author: ram, ISBN: 1, Availability: True
+2024-03-19 13:10:02,319:INFO:Book borrowed: User ID: 1, Book ISBN: 1
+2024-03-19 13:10:19,778:INFO:Displayed all books
+2024-03-19 13:10:30,501:INFO:Searched for 1 and found Title: book, Author: ram, ISBN: 1, Availability: True
+2024-03-19 13:10:36,625:INFO:Application exited successfully
+2024-03-19 13:10:50,179:INFO:Displayed all books
+2024-03-19 13:11:23,134:INFO:Displayed all books
+2024-03-19 13:12:02,512:INFO:Displayed all books
+2024-03-19 13:12:39,901:INFO:Displayed all books
+2024-03-19 13:13:39,516:INFO:Displayed all books
+2024-03-19 13:14:19,448:INFO:Book added: Title: book2, Author: ram, ISBN: 2
+2024-03-19 13:14:23,818:INFO:Displayed all books
+2024-03-19 13:16:11,151:INFO:Displayed all books
+2024-03-19 13:18:24,046:INFO:Displayed all books
+2024-03-19 13:18:32,444:INFO:Searched for 1 and found Title: book, Author: ram, ISBN: 1, Availability: False
+2024-03-19 13:22:09,971:INFO:Application exited successfully
+2024-03-19 13:30:50,365:INFO:Application exited successfully
+2024-03-19 13:31:34,081:INFO:Application exited successfully
+2024-03-19 14:28:54,185:INFO:Application exited successfully
+2024-03-19 14:32:15,594:INFO:Application exited successfully
+2024-03-19 14:50:03,128:INFO:Book borrowed: User ID: 1, Book ISBN: 1
+2024-03-19 14:50:09,995:INFO:Displayed all books
+2024-03-19 14:50:20,877:INFO:Displayed all books
+2024-03-19 14:50:48,888:INFO:Book borrowed: User ID: 1, Book ISBN: 2
+2024-03-19 14:51:03,939:INFO:Application exited successfully
+2024-03-19 14:51:36,900:INFO:Displayed all books
+2024-03-19 14:52:27,199:INFO:Displayed all books
+2024-03-19 14:52:58,808:INFO:Book added: Title: book3, Author: ram, ISBN: 3
+2024-03-19 14:53:11,108:INFO:Displayed all books
+2024-03-19 14:53:24,288:INFO:Displayed all books
+2024-03-19 14:53:25,795:INFO:Displayed all books
+2024-03-19 14:53:52,393:INFO:Searched for 3 and found Title: book3, Author: ram, ISBN: 3, Availability: True
+2024-03-19 14:53:55,117:INFO:Displayed all books
+2024-03-19 14:59:02,968:INFO:Book added: Title: book4, Author: ran, ISBN: 1
+2024-03-19 14:59:16,962:INFO:Application exited successfully
+2024-03-19 15:12:13,874:INFO:Displayed all books
+2024-03-19 15:14:00,424:INFO:Book returned: User ID: 1, Book ISBN: 1
+2024-03-19 15:14:15,935:INFO:Displayed all books
+2024-03-19 15:14:20,945:INFO:Application exited successfully
+2024-03-19 15:14:27,460:INFO:Displayed all books
+2024-03-19 15:14:32,977:INFO:Application exited successfully
+2024-03-19 15:15:22,433:INFO:Application exited successfully
+2024-03-19 15:19:18,390:INFO:User deleted: ID: 1
