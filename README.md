@@ -40,8 +40,13 @@ Project Structure:
 The project is organized into several modules:
 
 main.py: Entry point for the program, handles user interaction and calls functionalities from other modules.
+
 book.py: Defines the Book class to represent book information (title, author, ISBN, availability).
+
 user.py: Defines the User class to represent library users (name, ID, borrowed book).
+
 usermanager.py: Handles user registration, information retrieval, and other user-related functionalities.
+
 storage.py: Handles data operations using JSON files (stores book and user information).
+
 checkout.py: Handles borrowing and returning book logic (depending on your implementation).
