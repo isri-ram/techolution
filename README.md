@@ -29,9 +29,13 @@ Track book availability (available/borrowed).
 
 
 Dependencies:
+
 Python 3.x
+
 csv module
-Usage:
+
+To run:
+
 1. Clone the repository or download the project files.
 2. Run the main script:
   `python main.py`
